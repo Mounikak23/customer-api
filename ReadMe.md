@@ -7,7 +7,6 @@
 # Links
  
 * [Swagger](http://localhost:8080/api/swagger-ui.html) - Swagger Documentation for customer rest api
-* [Rest Services Base URL](http://localhost:8080/api/) - Customer rest api base url
 
 ## Examples
 I loaded sample data for customers 123 & 456.
