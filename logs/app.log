@@ -1,0 +1,8 @@
+[INFO ] 2020-02-06 02:36:04.936 [main] CustomerApplicationTests - Starting CustomerApplicationTests on SAL2NB49H2 with PID 16756 (started by mkat00e in C:\dev_tools\workspace\sal\customer\customer-api)
+[DEBUG] 2020-02-06 02:36:04.958 [main] CustomerApplicationTests - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 2020-02-06 02:36:04.959 [main] CustomerApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-06 02:36:11.593 [main] CustomerApplicationTests - Started CustomerApplicationTests in 7.303 seconds (JVM running for 10.833)
+[INFO ] 2020-02-06 03:08:05.582 [main] CustomerApplicationTests - Starting CustomerApplicationTests on SAL2NB49H2 with PID 10168 (started by mkat00e in C:\dev_tools\workspace\sal\customer\customer-api)
+[DEBUG] 2020-02-06 03:08:05.608 [main] CustomerApplicationTests - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 2020-02-06 03:08:05.608 [main] CustomerApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-06 03:08:12.592 [main] CustomerApplicationTests - Started CustomerApplicationTests in 7.613 seconds (JVM running for 11.42)
